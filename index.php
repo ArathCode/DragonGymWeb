@@ -67,7 +67,7 @@ if (!empty($_SESSION['activa'])) {
             </div>
             <div class="col" style="background-color:  white;">
                 <div class="row" style="">
-                    <h1 style="padding-top: 3%;">AutentificaciónNNN</h1>
+                    <h1 style="padding-top: 3%;">AutentificaciónNNNnn</h1>
                 </div>
                 <form style="margin: 5%" method="POST">
                     <div>
