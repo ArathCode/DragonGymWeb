@@ -67,7 +67,7 @@ if (!empty($_SESSION['activa'])) {
             </div>
             <div class="col" style="background-color:  white;">
                 <div class="row" style="">
-                    <h1 style="padding-top: 3%;">Autentificacióncon git add </h1>
+                    <h2 style="padding-top: 3%;">Autentificacióncon git add nuevo cambio </h2>
                 </div>
                 <form style="margin: 5%" method="POST">
                     <div>
